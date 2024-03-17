@@ -1,0 +1,62 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Chicken Stir Fry",
+    "description": "A delicious and easy-to-make chicken stir fry with vegetables.",
+    "ingredients": ["550g chicken", "120ml soy sauce", "200g basil leaf", "400g mushroom"],
+    "preparing_time": 30,
+    "calories": 320,
+    "recipe_image_url": "https://i.ibb.co/chXfSWH/recipe-1.png",
+    "recipe_image_name": "Chicken Stir Fry"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Vegetable Pasta",
+    "description": "A hearty pasta dish packed with fresh vegetables.",
+    "ingredients": ["250g pasta", "2 bell peppers", "1 zucchini", "1 onion", "2 cloves garlic", "200g cherry tomatoes", "100g spinach"],
+    "preparing_time": 25,
+    "calories": 280,
+    "recipe_image_url": "https://i.ibb.co/s3WWJD9/recipe-2.png",
+    "recipe_image_name": "Vegetable Pasta"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Greek Salad",
+    "description": "A refreshing salad with crisp vegetables and tangy feta cheese.",
+    "ingredients": ["1 cucumber", "2 tomatoes", "1 red onion", "100g feta cheese", "50g olives", "2 tbsp olive oil", "1 tbsp red wine vinegar"],
+    "preparing_time": 15,
+    "calories": 180,
+    "recipe_image_url": "https://i.ibb.co/1fBqcyN/Greek-Salad-Recipe-recipe-card.jpg",
+    "recipe_image_name": "Greek Salad"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Banana Smoothie",
+    "description": "A creamy and nutritious smoothie made with ripe bananas.",
+    "ingredients": ["2 ripe bananas", "250ml milk", "1 tbsp honey", "1/2 tsp cinnamon", "Ice cubes (optional)"],
+    "preparing_time": 5,
+    "calories": 220,
+    "recipe_image_url": "https://i.ibb.co/kcSJL41/download.jpg",
+    "recipe_image_name": "Banana Smoothie"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Spaghetti Carbonara",
+    "description": "A classic Italian pasta dish with creamy sauce and crispy bacon.",
+    "ingredients": ["300g spaghetti", "150g bacon", "3 eggs", "50g grated Parmesan cheese", "2 cloves garlic", "Salt and pepper to taste"],
+    "preparing_time": 20,
+    "calories": 380,
+    "recipe_image_url": "https://i.ibb.co/2dBhgkm/download.jpg",
+    "recipe_image_name": "Spaghetti Carbonara"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Quinoa Salad",
+    "description": "A nutritious salad featuring protein-packed quinoa and fresh vegetables.",
+    "ingredients": ["1 cup quinoa", "2 cups water", "1 red bell pepper", "1 yellow bell pepper", "1 cucumber", "1/4 cup chopped cilantro", "Juice of 1 lemon", "2 tbsp olive oil", "Salt and pepper to taste"],
+    "preparing_time": 25,
+    "calories": 250,
+    "recipe_image_url": "https://i.ibb.co/VVm3J9g/download.jpg",
+    "recipe_image_name": "Quinoa Salad"
+  }
+]
